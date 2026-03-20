@@ -1,0 +1,3 @@
+'''x=XXX,y=YYY''' where XXX = the column (vertical) that the plot resides in on the map and YYY = the row (horizontal) that the plot resides in on the map. Columns begin at 0 (zero) on the left edge of the map and increase by 1 to the right. Rows begin at 0 (zero) on the bottom edge of the map and increase by 1 upwards. Bottom left plot is 0,0 and top right plot is (mapwidth - 1),(mapheight - 1).
+
+{{Civ4_World_Builder}}

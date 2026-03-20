@@ -1,0 +1,19 @@
+{{Civ5 API Beta Banner}}
+''This page is a part of the [[Lua and UI Reference (Civ5)]].''<br/>
+
+
+
+{{TypeInfos5|Function.png|This function is a member of {{Type5|Plot}}.<br/>
+This is an instance method, invoke it with a colon.
+}}
+
+
+=Usage=
+<code>'''void''' Plot:RemoveGoody<b>(</b><b>)</b></code>
+
+
+
+
+{{Civ5 API Footer}}
+[[Category:Civ5 Methods and Functions|RemoveGoody]]
+[[Category:Civ5 Goodies API|RemoveGoody]]

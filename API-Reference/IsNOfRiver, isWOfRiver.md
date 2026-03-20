@@ -1,0 +1,3 @@
+'''isNOfRiver''' and '''isWOfRiver''' are the two settings to place a river through this plot. They do not require a value being flags to the graphics engine. isNOfRiver (is north of river) defines the river as being on the bottom edge of the plot and isWOfRiver (is west of river) defines the river as being on the right edge of the plot. These settings MUST be used in conjunction with [[RiverNSDirection,_RiverWEDirection|RiverNSDirection or RiverWEDirection]].
+
+{{Civ4_World_Builder}}

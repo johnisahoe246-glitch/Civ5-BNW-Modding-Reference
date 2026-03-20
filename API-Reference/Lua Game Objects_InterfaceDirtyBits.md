@@ -1,0 +1,40 @@
+== As listed in the Modbuddy's partial Lua API ==
+Back to [[Lua Game Objects]]<br>
+
+* SelectionCamera_DIRTY_BIT
+* Fog_DIRTY_BIT
+* GlobeLayer_DIRTY_BIT
+* GlobeInfo_DIRTY_BIT
+* Waypoints_DIRTY_BIT
+* PercentButtons_DIRTY_BIT
+* MiscButtons_DIRTY_BIT
+* PlotListButtons_DIRTY_BIT
+* SelectionButtons_DIRTY_BIT
+* CitizenButtons_DIRTY_BIT
+* ResearchButtons_DIRTY_BIT
+* Event_DIRTY_BIT
+* Center_DIRTY_BIT
+* GameData_DIRTY_BIT
+* Score_DIRTY_BIT
+* TurnTimer_DIRTY_BIT
+* Help_DIRTY_BIT
+* MinimapSection_DIRTY_BIT
+* SelectionSound_DIRTY_BIT
+* Cursor_DIRTY_BIT
+* CityInfo_DIRTY_BIT
+* UnitInfo_DIRTY_BIT
+* Popup_DIRTY_BIT
+* CityScreen_DIRTY_BIT
+* InfoPane_DIRTY_BIT
+* Flag_DIRTY_BIT
+* HighlightPlot_DIRTY_BIT
+* ColoredPlots_DIRTY_BIT
+* BlockadedPlots_DIRTY_BIT
+* Financial_Screen_DIRTY_BIT
+* Foreign_Screen_DIRTY_BIT
+* Soundtrack_DIRTY_BIT
+* Domestic_Advisor_DIRTY_BIT
+* Advanced_Start_DIRTY_BIT
+* NationalBorders_DIRTY_BIT
+* Policies_DIRTY_BIT
+* NUM_INTERFACE_DIRTY_BITS

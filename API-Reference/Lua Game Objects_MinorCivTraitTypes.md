@@ -1,0 +1,8 @@
+== As listed in the Modbuddy's partial Lua API ==
+Back to [[Lua Game Objects]]<br>
+
+* NO_MINOR_CIV_TRAIT_TYPE
+* MINOR_CIV_TRAIT_CULTURED
+* MINOR_CIV_TRAIT_MILITARISTIC
+* MINOR_CIV_TRAIT_MARITIME
+* NUM_MINOR_CIV_TRAIT_TYPES

@@ -1,0 +1,12 @@
+== As listed in the Modbuddy's partial Lua API ==
+Back to [[Lua Game Objects]]<br>
+
+* NO_FEATURE
+* FEATURE_ICE
+* FEATURE_JUNGLE
+* FEATURE_MARSH
+* FEATURE_OASIS
+* FEATURE_FLOOD_PLAINS
+* FEATURE_FOREST
+* FEATURE_FALLOUT
+* NUM_FEATURE_TYPES

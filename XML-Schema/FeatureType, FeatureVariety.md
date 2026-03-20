@@ -1,0 +1,3 @@
+'''FeatureType=XXX, FeatureVariety=YYY''' where XXX is the terrain feature to place on this plot and YYY is which variety of the valid terrain feature to place. Forests is an example of a terrain feature, while the FeatureVariety will determine which version of the forest is placed (pines, hardwood, etc). These are defined in [[Civ4FeatureInfos|CIV4FeatureInfos.xml]]. EG: FeatureType=FEATURE_FOREST, FeatureVariety=1
+
+{{Civ4_World_Builder}}

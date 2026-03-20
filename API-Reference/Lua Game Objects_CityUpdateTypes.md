@@ -1,0 +1,8 @@
+== As listed in the Modbuddy's partial Lua API ==
+Back to [[Lua Game Objects]]<br>
+
+* NO_CITY_UPDATE_TYPE
+* CITY_UPDATE_TYPE_BANNER
+* CITY_UPDATE_TYPE_SPECIALISTS
+* CITY_UPDATE_TYPE_PRODUCTION
+* NUM_CITY_UPDATE_TYPES
